@@ -43,6 +43,7 @@ container{
 }
 .number2, .description ,.result{
     text-transform: none;
+    
 }
 .number-circle{
     display: flex;
